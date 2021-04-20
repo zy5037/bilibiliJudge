@@ -4,6 +4,8 @@
 
 本分支为Docker版，使用Docker-Compose部署即可！
 
+如果你是使用dockerfile部署，可以直接运行命令`docker pull gamernotitle/bilibilijudge:latest`
+
 本脚本通过使用Github Action来实现B站风纪委员的自动投票功能，喜欢请给我点个STAR吧！
 
 如果你不是风纪委员，在符合风纪委员申请条件的情况下，本脚本会自动帮你申请
